@@ -39,6 +39,6 @@ My favourite languages are Python and JavaScript as I only know these two.
 
 # How to Reach me?
 If you wanna reach me, the only option is to join my discord server.
-To join my Discord Server click [here]('https://discord.gg/7Rs9B6rkrA)
+To join my Discord Server click [here](https://discord.gg/7Rs9B6rkrA)
 
 
