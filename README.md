@@ -26,7 +26,7 @@ In 2020, I started with Python as my first language because I was just sleeping 
 <img src="https://camo.githubusercontent.com/8a64e82b88b71294679fccf25fc132fe4f2aee0d2b44174559df4dc1f9bd507b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"></img>
 
 # What am I learning?
-Currently I am learning ReactJs.
+Currently I am learning Discord.Js.
 
 # My Projects
 I made a website when I was learning Javascript. To check out that website click [here](https://tracker-website2.vercel.app)
