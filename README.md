@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Who Am I?
-I am a 16 years old boy living the Delhi currently doing 11th standard. I am a programmer who knows Python and Web development.
+I am a 16 years old boy living in Delhi currently doing 11th standard. I am a programmer who knows Python and Web development.
 In 2020, I started with Python as my first language because I was just sleeping in the lockdown.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
