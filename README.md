@@ -31,10 +31,10 @@ I made a website when I was learning Javascript. To check out that website click
 
 Another Project I made while learning ReactJs is a Discord Clone. To check out it click [here](https://discord-clone-85f09.web.app)
 
+I also made a [Chat App](https://github.com/PhantomKnight287/ReactNative) using Firebase and React Naitve.
 
-# My favourite Languages
-My favourite languages are Python and JavaScript as I only know these two.
-
+<img src="https://github-readme-stats.vercel.app/api?username=PhantomKnight287&show_icons=true&locale=en">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhantomKnight287&show_icons=true&locale=en&layout=compact">
 # How to Reach me?
 If you wanna reach me, the only option is to join my discord server.
 To join my Discord Server click [here](https://discord.gg/7Rs9B6rkrA)
