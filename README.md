@@ -1,8 +1,11 @@
+<div align="center" font-size="2rem" >
 
+![pp](https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif)
 # Who Am I?
 I am a 16 years old boy living in Delhi currently doing 11th standard. I am a programmer who knows Python and Web development.
 In 2020, I started with Python as my first language because I was just sleeping in the lockdown.
 
+# Things I know
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
@@ -21,17 +24,22 @@ In 2020, I started with Python as my first language because I was just sleeping 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></img>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
+
+
 # My Projects
 I made a website when I was learning Javascript. To check out that website click [here](https://tracker-website2.vercel.app)
 
-Another Project I made while learning ReactJs is a Discord Clone. To check out it click [here](https://discord-clone-85f09.web.app)
-
 I also made a [Chat App](https://github.com/PhantomKnight287/ReactNative) using Firebase and React Naitve.
+
+I am working on an open source discord [bot](https://github.com/PhantomKnight287/phantomknight)
 
 <img src="https://github-readme-stats.vercel.app/api?username=PhantomKnight287&show_icons=true&count_private=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhantomKnight287&show_icons=true&locale=en&layout=compact">
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhantomKnight287&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 # How to Reach me?
 If you wanna reach me, the only option is to contact me using discord. My Username is "PHANTOM KNIGHT#9254"
 
-
+</div>
