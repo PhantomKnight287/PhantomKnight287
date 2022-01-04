@@ -54,7 +54,7 @@ I also made a [Chat App](https://github.com/PhantomKnight287/ReactNative) using 
 I am working on an open source discord [bot](https://github.com/PhantomKnight287/phantomknight)
 
 <img src="https://github-readme-stats.vercel.app/api?username=PhantomKnight287&show_icons=true&count_private=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhantomKnight287&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomknight287&langs_count=69&show_icons=true&locale=en&layout=compact">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhantomKnight287&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
