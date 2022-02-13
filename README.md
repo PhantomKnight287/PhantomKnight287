@@ -53,6 +53,6 @@ To View My Projects Click [here](https://github.com/PhantomKnight287?tab=reposit
 
 # How to Reach me?
 
-If you wanna reach me, the only option is to contact me using discord. My Username is "PHANTOM KNIGHT#9254"
+If you wanna reach me, the only option is to contact me using discord. My Username is "PHANTOM KNIGHT#4209"
 
 </div>
