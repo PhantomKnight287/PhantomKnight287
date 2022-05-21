@@ -7,7 +7,7 @@
 
 # Who Am I?
 
-I am a 16 years old boy living in Delhi currently doing 11th standard.
+I am a 17 years old boy living in Delhi currently doing 11th standard.
 In 2020, I started with Python as my first language because I was just sleeping in the lockdown.
 
 
