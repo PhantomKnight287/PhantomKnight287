@@ -7,7 +7,7 @@
 
 # Who Am I?
 
-I am a 17 years old boy living in Delhi currently doing 11th standard.
+I am from New Delhi,India.
 In 2020, I started with Python as my first language because I was just sleeping in the lockdown.
 
 
@@ -17,7 +17,7 @@ In 2020, I started with Python as my first language because I was just sleeping 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-<img src=" 	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
 
 # Tools I Use
 
@@ -44,6 +44,8 @@ In 2020, I started with Python as my first language because I was just sleeping 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 
 # My Projects
+
+My [Portfolio](https://gurpalsingh.me)
 
 To View My Projects Click [here](https://github.com/PhantomKnight287?tab=repositories)
 
