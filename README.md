@@ -1,35 +1,53 @@
-<div>
+<div align="center">
+<img align="center"  src="https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif"/>
+</div>
+<h1 align="center">Hi, I'm Gurpal Singh</h1>
+<h3 align="center">I am a full stack app and web developer.</h3>
+<div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=phantomknight287&label=Profile%20views&color=023e8a&style=flat" alt="phantomknight287" /> </p>
+  </div>
+<div align="center">
+  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
+<a href="https://phantomknight287.github.io" target="_blank" align="center">My Portfolio</a>
+  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
+</div>
 
-![pp](https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif)
+-----
+- 🌱 I’m currently learning:- Flutter,Go and Rust.
+- 💬 Ask me about:- full stack web and app development.
 
+## 🛠 My skills include
 
-# Who Am I?
+### Languages
 
-Hi, I am Gurpal Singh. A Full Stack Web Developer from Delhi, India. 
+![Languages](https://skills.thijs.gg/icons?i=cpp,html,css,js,ts,golang,python,dart,rust&theme=dark) 
 
+### Frameworks and platforms
 
-**Some Tech I Use:**
+![Frameworks](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,aws,linux,nestjs,flutter,supabase,vite,docker,styledcomponents&theme=dark)
 
-- Nextjs
-- Typescript
-- Nestjs
-- Postgresql
-- Prisma
-- Styled Components
+### Databases
 
+![Databases](https://skills.thijs.gg/icons?i=mongodb,firebase,mysql,postgresql,sqlite&theme=dark)
 
-# My Projects
+### Tools
 
-My [Portfolio](https://gurpalsingh.me)
+![Tools](https://skills.thijs.gg/icons?i=git,github,md,vscode,prisma,netlify,vercel,androidstudio&theme=dark)
+<img height="50" width="50" src="https://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_400x400.png"/>
 
-To View My Projects Click [here](https://github.com/PhantomKnight287?tab=repositories)
-
-<img src="https://github-readme-stats.vercel.app/api?username=PhantomKnight287&show_icons=true&count_private=true&theme=tokyonight">
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phantomknight287&theme=black-ice" alt="Gurpal-Singh"  /></p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomknight287&langs_count=69&show_icons=true&locale=en&layout=compact">
+</p>
 
-# How to Reach me?
+## How to Reach me?
 
 - Discord: `PHANTOM KNIGHT#4209`
 - Email : [PhantomKnight287@proton.me](mailto:phantomknight287@proton.me)
 
-</div>
+----
+
+<p align="center">
+Thanks for visiting 😎🤝
+</p>
